@@ -1,1 +1,1 @@
-# yandex_praktikum_ds
+# yandex_practicum_ds
